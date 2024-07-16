@@ -1,5 +1,5 @@
 # Unemployment Analysis in India
-This repository contains the project assigned to me during my internship @CipherByte Technologies.
+This repository contains the project assigned to me during my internship @CipherByteTechnologies.
 
 The project are of the domain- Data Science and Python.
 
